@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <th>2</th>
-            <th><a href="https://github.com/phantranthelinh/css-animations/tree/main/Cool%20css%20loader">3D GROWING TEXT</a></th>
+            <th><a href="https://github.com/phantranthelinh/css-animations/tree/main/Cool%20css%20loader">Cool css loader</a></th>
             <th><a target="_blank" href="https://phantranthelinh.github.io/css-animations/Cool%20css%20loader">Live demo</a></th>
         </tr>
     </table>
